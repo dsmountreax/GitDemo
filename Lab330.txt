@@ -1,5 +1,21 @@
 git branch// enlista todos las ramas
 git checkout -b branch330// equivalente a develop
 git branch
+git status
+git add *
+git status
+git commit -m "Branch Asian Development"
+git branch
+git push origin branch330// se carga el branch al repositorio
+American team
+git pull origin branch330//descarga nuevo branch de repositorio
+git add *
+git status
+git commit -m "American Develop team"
+
+
+
+
+
 
 
