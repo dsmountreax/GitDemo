@@ -1,0 +1,6 @@
+Download code to update
+Locate in directory with .git
+*********************************
+git pull origin master // se decarga la info
+
+
