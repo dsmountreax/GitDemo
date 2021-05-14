@@ -4,8 +4,17 @@ Initialize it as Git repository -git init
 Stash - Commit
 
 git init // inicializar carpeta
-git status // 
-git add *
+git status // verificar estado de archivos
+git add *  // Añadir archivos al stage
+git status //
+git commit -m "first commit"
+git status 
+git remote add origin https://github.com/dsmountreax/GitDemo.git // añadir origen 
+git status
+git push origin master
+
+
+ 
 
 **********************************************************************
 *********************Ejemplo Github***********************************
