@@ -1,0 +1,5 @@
+git branch// enlista todos las ramas
+git checkout -b branch330// equivalente a develop
+git branch
+
+
